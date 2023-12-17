@@ -8,7 +8,7 @@
 </div>
 
 ###
-<--
+<!--
 <img align="left" height="120" src="https://media.tenor.com/2cKVhhxhPLsAAAAC/the-social-network-watching-movie.gif"  />
 -->
 ###
