@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Abhinav Mishra. This is where I post all my code.</h2>
+<h2 align="left">Hi 👋! I'm Abhinav Mishra. This is where I post all my code.</h2>
 
 ###
 
